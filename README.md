@@ -28,13 +28,13 @@
 
 I'm **H R Thejas Gowda**, a **3rd-year B.Tech student in Computer Science Engineering (AI/ML)** at **Amity University Bengaluru**.
 
-I'm building my career across **AI engineering, prompt engineering, software development and web development**, and I'm also a **graphic designer**, so I like projects where solid engineering meets a clean, well-designed experience. I'm a **Core Member of the AWS Club**, where I learn and build with cloud technologies alongside my peers.
+I'm building my career across **AI engineering, prompt engineering, software development and web development**, and I'm also a **graphic designer**, so I like projects where solid engineering meets a clean, well-designed experience. I'm a **Core Team Member of AWS Student Builder Groups (SBG) - AUB**, where I learn and build with cloud technologies alongside my peers.
 
 ```python
 class Thejas:
     role        = ["AI Engineer", "Prompt Engineer", "Software & Web Developer", "Graphic Designer"]
     education   = "B.Tech CSE (AI/ML) · 3rd year · Amity University Bengaluru"
-    community   = "Core Member · AWS Club"
+    community   = "Core Team Member · AWS Student Builder Groups (SBG) - AUB"
     focus       = ["LLM Applications", "RAG Systems", "Full-Stack Web", "Prompt Evaluation", "UI & Visual Design"]
     principles  = ["Measure before you optimize", "Prompts are code: version and test them", "Design is part of the product"]
     currently   = "Learning AI and prompt engineering, building web projects and growing my cloud skills"
@@ -263,7 +263,18 @@ I design graphics, posters, social media creatives and presentations using **Can
 
 ## 🏆 Certifications, Community & Achievements
 
-- ☁️ **Core Member, AWS Club**: certificate received · [View certificate](#)
+- ☁️ **AWS Student Builder Groups (SBG) - AUB**: **Certificate of Appreciation** presented in recognition of successful one-year term as a **Core Team Member** · [View Certificate](./assets/aws-sbg-core-team-certificate.jpg)
+
+<details open>
+<summary><b>📜 AWS Certificate of Appreciation (Click to view full)</b></summary>
+<br/>
+<div align="center">
+  <a href="./assets/aws-sbg-core-team-certificate.jpg">
+    <img src="./assets/aws-sbg-core-team-certificate.jpg" width="700" alt="AWS Student Builder Groups Certificate of Appreciation - Thejas Gowda" style="border-radius: 12px; box-shadow: 0 6px 24px rgba(0,0,0,0.3);" />
+  </a>
+</div>
+<br/>
+</details>
 - 🎨 **Designs viewable at AWS Student Community Day**, Amity University Bengaluru
 - 🎓 *Add other certifications*: Issuer (Year)
 - 🥇 *Add hackathons / competitions*: Result (Year)
