@@ -259,9 +259,6 @@ I design graphics, posters, social media creatives and presentations using **Can
 ## 🏆 Certifications, Community & Achievements
 
 - ☁️ **Core Member, AWS Club**: certificate received · [View certificate](#)
-- 🎓 *Add other certifications*: Issuer (Year)
-- 🥇 *Add hackathons / competitions*: Result (Year)
-- 📝 *Add publications / blog posts*: Title and link
 
 ---
 
