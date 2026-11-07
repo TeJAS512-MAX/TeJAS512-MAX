@@ -153,22 +153,6 @@ flowchart LR
     H --> C
 ```
 
----
-
-## 📌 Featured Projects
-
-> Replace each block with your real project details and links.
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **🔎 Project One: RAG Assistant** | Document Q&A system with retrieval, re-ranking and cited answers | `Python` `LangChain` `FAISS` `FastAPI` | [Repo](https://github.com/TeJAS512-MAX/project-one) · [Demo](#) |
-| **🤖 Project Two: AI Agent** | Tool-using agent that plans, calls APIs and verifies its own results | `Python` `LLM APIs` `Docker` | [Repo](https://github.com/TeJAS512-MAX/project-two) · [Demo](#) |
-| **🌐 Project Three: Full-Stack Web App** | Responsive web application with a backend API and a clean UI | `React` `Node.js` `Tailwind CSS` | [Repo](https://github.com/TeJAS512-MAX/project-three) · [Demo](#) |
-| **🧪 Project Four: Prompt Eval Kit** | Lightweight framework to version, test and score prompts against datasets | `Python` `Pandas` `Streamlit` | [Repo](https://github.com/TeJAS512-MAX/project-four) · [Demo](#) |
-| **📊 Project Five: ML Model** | End-to-end model with data pipeline, training and evaluation report | `PyTorch` `scikit-learn` `Jupyter` | [Repo](https://github.com/TeJAS512-MAX/project-five) |
-
----
-
 ## ✍️ Prompt Engineering Showcase
 
 <details>
