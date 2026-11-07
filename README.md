@@ -211,16 +211,16 @@ I design graphics, posters, social media creatives and presentations using **Can
 
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="98%"/>
-<br/>
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%"/>
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" width="48%"/>
-<br/>
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%"/>
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%"/>
+<a href="https://github.com/TeJAS512-MAX">
+  <img src="https://github-readme-stats-tau-hazel.vercel.app/api?username=TeJAS512-MAX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="185" alt="TeJAS512-MAX GitHub Stats"/>
+  <img src="https://github-readme-stats-tau-hazel.vercel.app/api/top-langs/?username=TeJAS512-MAX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" height="185" alt="Top Languages"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=TeJAS512-MAX&theme=tokyonight&hide_border=true&background=0D1117&starting_year=2024" alt="GitHub Streak"/>
+<br/><br/>
 
+<a href="https://github.com/TeJAS512-MAX">
+  <img src="https://streak-stats.demolab.com?user=TeJAS512-MAX&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=ffffff&dates=8b949e" width="96%" alt="GitHub Streak"/>
+</a>
 
 </div>
 
