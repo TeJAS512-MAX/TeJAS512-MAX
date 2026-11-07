@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Thejas%20Gowda&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Prompt%20Engineer%20%7C%20Web%20Developer%20%7C%20Designer&descAlignY=60&descSize=20" width="100%" alt="Banner"/>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=820&lines=Building+LLM-powered+applications;Designing+prompts+that+hold+up+in+production;Full-stack+web+%26+software+development;Graphic+design+with+Canva+%26+creative+tools;3rd-year+B.Tech+CSE+(AI%2FML)+%40+Amity+University+Bengaluru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=820&lines=Learning+and+experimenting+with+AI+%26+LLMs;Writing+and+testing+better+prompts;Full-stack+web+%26+software+development;Graphic+design+with+Canva+%26+creative+tools;3rd-year+B.Tech+CSE+(AI%2FML)+%40+Amity+University+Bengaluru" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,7 +37,7 @@ class Thejas:
     community   = "Core Member · AWS Club"
     focus       = ["LLM Applications", "RAG Systems", "Full-Stack Web", "Prompt Evaluation", "UI & Visual Design"]
     principles  = ["Measure before you optimize", "Prompts are code: version and test them", "Design is part of the product"]
-    currently   = "Building LLM workflows, web apps and cloud skills while still studying"
+    currently   = "Learning AI and prompt engineering, building web projects and growing my cloud skills"
     open_to     = ["Internships", "Open-source collaboration", "AI / Web / Design projects"]
 ```
 
@@ -50,10 +50,10 @@ class Thejas:
 <td width="50%" valign="top">
 
 ### 🧠 AI Engineering
-- Building LLM-powered apps and APIs
-- Retrieval-Augmented Generation (RAG) pipelines
-- Tool-using agents and multi-step workflows
-- Model training, fine-tuning and evaluation
+- Learning to build small AI-powered apps and APIs
+- Exploring Retrieval-Augmented Generation (RAG)
+- Experimenting with agents and multi-step workflows
+- Hands-on practice with machine learning models and evaluation
 
 </td>
 <td width="50%" valign="top">
@@ -152,27 +152,15 @@ flowchart LR
     G --> H[Monitor in Production]
     H --> C
 ```
+  
 
----
 
-## 📌 Featured Projects
 
-> Replace each block with your real project details and links.
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **🔎 Project One: RAG Assistant** | Document Q&A system with retrieval, re-ranking and cited answers | `Python` `LangChain` `FAISS` `FastAPI` | [Repo](https://github.com/YOUR_USERNAME/project-one) · [Demo](#) |
-| **🤖 Project Two: AI Agent** | Tool-using agent that plans, calls APIs and verifies its own results | `Python` `LLM APIs` `Docker` | [Repo](https://github.com/YOUR_USERNAME/project-two) · [Demo](#) |
-| **🌐 Project Three: Full-Stack Web App** | Responsive web application with a backend API and a clean UI | `React` `Node.js` `Tailwind CSS` | [Repo](https://github.com/YOUR_USERNAME/project-three) · [Demo](#) |
-| **🧪 Project Four: Prompt Eval Kit** | Lightweight framework to version, test and score prompts against datasets | `Python` `Pandas` `Streamlit` | [Repo](https://github.com/YOUR_USERNAME/project-four) · [Demo](#) |
-| **📊 Project Five: ML Model** | End-to-end model with data pipeline, training and evaluation report | `PyTorch` `scikit-learn` `Jupyter` | [Repo](https://github.com/YOUR_USERNAME/project-five) |
-
----
 
 ## ✍️ Prompt Engineering Showcase
 
 <details>
-<summary><b>Example: structured, production-style system prompt</b> (click to expand)</summary>
+<summary><b>Example: a structured system prompt template I use</b> (click to expand)</summary>
 
 ```text
 # ROLE
@@ -219,13 +207,11 @@ Answer the user's question in at most 5 sentences.
 
 I design graphics, posters, social media creatives and presentations using **Canva** and other creative tools.
 
-> Add links to your design portfolio (Behance, Canva public links, Google Drive, Instagram) and a few sample images here.
+🎉 **My designs can be viewed at the AWS Student Community Day at Amity University Bengaluru.**
 
 | Sample | Link |
 |---|---|
-| 🖼️ *Poster / event branding* | [View](#) |
-| 📱 *Social media creatives* | [View](#) |
-| 📽️ *Presentation design* | [View](#) |
+| ☁️ *AWS Student Community Day, Amity University Bengaluru* 
 
 ---
 
@@ -249,8 +235,8 @@ I design graphics, posters, social media creatives and presentations using **Can
 - 🔹 Advanced RAG: hybrid search, re-ranking and evaluation
 - 🔹 Agentic workflows and tool use
 - 🔹 Full-stack web development and modern frontend frameworks
-- 🔹 Cloud fundamentals and deployment on ALL CLOUD SERVERS
-- 🔹 LLM evaluation and observability (BEGGINER)
+- 🔹 Cloud fundamentals and deployment on AWS
+- 🔹 LLM evaluation and observability
 - 🔹 Fine-tuning small language models (LoRA / QLoRA)
 
 ---
@@ -258,7 +244,7 @@ I design graphics, posters, social media creatives and presentations using **Can
 ## 🏆 Certifications, Community & Achievements
 
 - ☁️ **Core Member, AWS Club**: certificate received · [View certificate](#)
-
+- 🎨 **Designs viewable at AWS Student Community Day**, Amity University Bengaluru
 
 ---
 
