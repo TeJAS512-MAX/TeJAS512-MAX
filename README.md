@@ -12,9 +12,6 @@
 <a href="https://www.linkedin.com/in/thejas-gowda-26b202340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:tejasgowdahr09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Discord-honest__chipmunk__0906__84724-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00D4FF" alt="Portfolio"/></a>
-<a href="https://huggingface.co/YOUR_HF_USERNAME"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 
 <br/><br/>
 
@@ -26,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **H R Thejas Gowda**, a **3rd-year B.Tech student in Computer Science Engineering (AI/ML)** at **Amity University Bengaluru**.
+I'm ** Thejas Gowda**, a **3rd-year B.Tech student in Computer Science Engineering (AI/ML)** at **Amity University Bengaluru**.
 
 I'm building my career across **AI engineering, prompt engineering, software development and web development**, and I'm also a **graphic designer**, so I like projects where solid engineering meets a clean, well-designed experience. I'm a **Core Team Member of AWS Student Builder Groups (SBG) - AUB**, where I learn and build with cloud technologies alongside my peers.
 
