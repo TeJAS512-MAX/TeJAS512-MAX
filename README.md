@@ -15,8 +15,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=TeJAS512-MAX&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile views"/>
-
 </div>
 
 ---
