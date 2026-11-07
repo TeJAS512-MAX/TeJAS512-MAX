@@ -1,4 +1,3 @@
-
 <!-- ========================= HEADER BANNER ========================= -->
 <div align="center">
 
@@ -234,12 +233,12 @@ I design graphics, posters, social media creatives and presentations using **Can
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&starting_year=2024" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/00d4ff/YOUR_USERNAME" alt="Contribution Chart" width="100%"/>
 
 </div>
 
@@ -250,8 +249,8 @@ I design graphics, posters, social media creatives and presentations using **Can
 - 🔹 Advanced RAG: hybrid search, re-ranking and evaluation
 - 🔹 Agentic workflows and tool use
 - 🔹 Full-stack web development and modern frontend frameworks
-- 🔹 Cloud fundamentals and deployment on AWS
-- 🔹 LLM evaluation and observability
+- 🔹 Cloud fundamentals and deployment on ALL CLOUD SERVERS
+- 🔹 LLM evaluation and observability (BEGGINER)
 - 🔹 Fine-tuning small language models (LoRA / QLoRA)
 
 ---
@@ -259,6 +258,7 @@ I design graphics, posters, social media creatives and presentations using **Can
 ## 🏆 Certifications, Community & Achievements
 
 - ☁️ **Core Member, AWS Club**: certificate received · [View certificate](#)
+
 
 ---
 
