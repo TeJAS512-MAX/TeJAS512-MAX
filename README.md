@@ -209,10 +209,7 @@ I design graphics, posters, social media creatives and presentations using **Can
 
 | Sample | Link |
 |---|---|
-| ☁️ *AWS Student Community Day, Amity University Bengaluru* | [View](#) |
-| 📱 *Social media creatives* | [View](#) |
-| 📽️ *Presentation design* | [View](#) |
-
+| ☁️ *AWS Student Community Day, Amity University Bengaluru* 
 ---
 
 ## 📊 GitHub Analytics
@@ -246,8 +243,6 @@ I design graphics, posters, social media creatives and presentations using **Can
 ---
 
 ## 🏆 Certifications, Community & Achievements
-
-- ☁️ **AWS Student Builder Groups (SBG) - AUB**: **Certificate of Appreciation** presented in recognition of successful one-year term as a **Core Team Member** · [View Certificate](./assets/aws-sbg-core-team-certificate.jpg)
 
 <details open>
 <summary><b>📜 AWS Certificate of Appreciation (Click to view full)</b></summary>
