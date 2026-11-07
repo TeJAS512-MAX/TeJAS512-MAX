@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Thejas%20Gowda&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Prompt%20Engineer%20%7C%20Web%20Developer%20%7C%20Designer&descAlignY=60&descSize=20" width="100%" alt="Banner"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/TeJAS512-MAX">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=820&lines=Learning+and+experimenting+with+AI+%26+LLMs;Writing+and+testing+better+prompts;Full-stack+web+%26+software+development;Graphic+design+with+Canva+%26+creative+tools;3rd-year+B.Tech+CSE+(AI%2FML)+%40+Amity+University+Bengaluru" alt="Typing SVG" />
 </a>
 
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=TeJAS512-MAX&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -152,10 +152,22 @@ flowchart LR
     G --> H[Monitor in Production]
     H --> C
 ```
-  
 
+---
 
+## 📌 Featured Projects
 
+> Replace each block with your real project details and links.
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **🔎 Project One: RAG Assistant** | Document Q&A system with retrieval, re-ranking and cited answers | `Python` `LangChain` `FAISS` `FastAPI` | [Repo](https://github.com/TeJAS512-MAX/project-one) · [Demo](#) |
+| **🤖 Project Two: AI Agent** | Tool-using agent that plans, calls APIs and verifies its own results | `Python` `LLM APIs` `Docker` | [Repo](https://github.com/TeJAS512-MAX/project-two) · [Demo](#) |
+| **🌐 Project Three: Full-Stack Web App** | Responsive web application with a backend API and a clean UI | `React` `Node.js` `Tailwind CSS` | [Repo](https://github.com/TeJAS512-MAX/project-three) · [Demo](#) |
+| **🧪 Project Four: Prompt Eval Kit** | Lightweight framework to version, test and score prompts against datasets | `Python` `Pandas` `Streamlit` | [Repo](https://github.com/TeJAS512-MAX/project-four) · [Demo](#) |
+| **📊 Project Five: ML Model** | End-to-end model with data pipeline, training and evaluation report | `PyTorch` `scikit-learn` `Jupyter` | [Repo](https://github.com/TeJAS512-MAX/project-five) |
+
+---
 
 ## ✍️ Prompt Engineering Showcase
 
@@ -209,9 +221,13 @@ I design graphics, posters, social media creatives and presentations using **Can
 
 🎉 **My designs can be viewed at the AWS Student Community Day at Amity University Bengaluru.**
 
+> Add links to your design portfolio (Behance, Canva public links, Google Drive, Instagram) and a few sample images here.
+
 | Sample | Link |
 |---|---|
-| ☁️ *AWS Student Community Day, Amity University Bengaluru* 
+| ☁️ *AWS Student Community Day, Amity University Bengaluru* | [View](#) |
+| 📱 *Social media creatives* | [View](#) |
+| 📽️ *Presentation design* | [View](#) |
 
 ---
 
@@ -219,12 +235,16 @@ I design graphics, posters, social media creatives and presentations using **Can
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="98%"/>
+<br/>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" width="48%"/>
+<br/>
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&starting_year=2024" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=TeJAS512-MAX&theme=tokyonight&hide_border=true&background=0D1117&starting_year=2024" alt="GitHub Streak"/>
 
-<img src="https://ghchart.rshah.org/00d4ff/YOUR_USERNAME" alt="Contribution Chart" width="100%"/>
 
 </div>
 
@@ -245,6 +265,9 @@ I design graphics, posters, social media creatives and presentations using **Can
 
 - ☁️ **Core Member, AWS Club**: certificate received · [View certificate](#)
 - 🎨 **Designs viewable at AWS Student Community Day**, Amity University Bengaluru
+- 🎓 *Add other certifications*: Issuer (Year)
+- 🥇 *Add hackathons / competitions*: Result (Year)
+- 📝 *Add publications / blog posts*: Title and link
 
 ---
 
